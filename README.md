@@ -20,4 +20,7 @@ Interested in Open Source🗝️ and free projects
 * Coding in weekends 🙂
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+*Android Developmet
+*NodeJS
+*DataScience
+*MongoDB
