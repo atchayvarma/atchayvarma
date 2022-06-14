@@ -28,12 +28,6 @@ Interested in Open Source🗝️ and free projects. Also with a decent design sk
 * Coding in weekends 🙂
 * Open Source 🖐️
 
-## 🙃 Current Status
-* I'm a student studying Grade 11 👨‍🎓
-* Solo 😵 
-* Coding in weekends 🙂
-* Open Source 🖐️
-* 
 ## 🛠 Tech Stack
 
 * Android
